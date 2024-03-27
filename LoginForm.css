@@ -1,0 +1,228 @@
+.image{
+    
+display:grid ;
+grid-template-columns: 2fr 1fr ;
+margin-left: 720px;
+width: 1000px;
+  
+
+}
+
+.header {
+    font-size: 20px;
+    margin-left: 30px;
+
+    .logo{  
+    
+        display: flex;
+        flex-direction: row;
+        margin-top: 70px;
+        gap: 10px;
+        align-items: center;
+    }
+    
+
+    
+
+}
+
+.header2{
+    font-size: 20px;
+    margin-top:50x;
+   
+
+}
+
+.wrapper.input-box {
+    position: relative;
+    width: 200px;
+    height: 48px;
+    margin: Right 20px;
+    color: #1a1a1a;
+    font-size: 100px;
+    margin-top: 20px;
+
+}
+
+
+
+    .lebel{
+        margin-left:16px;
+        margin-right: 16px;
+        margin-top: 8px;
+  
+    
+       
+    
+    
+    
+    }
+    .password{
+        margin-left: 10px;
+    }
+    .forgetPassword{
+        text-decoration: none;
+    
+        margin-left: 20px;
+
+    }
+
+
+
+
+
+
+   
+        
+
+   
+
+
+
+
+
+
+
+
+
+    
+
+    
+
+
+
+
+
+.wrapper {
+    width: 420px;
+    ;
+    background: #ffffff;
+    color: black;
+    padding: 30px 40px;
+
+
+
+}
+
+.wrapper h1 {
+    font-size: 20px;
+    text-align: left;
+    margin-top: 20px;
+    margin-left: 0%;
+    font-family: "alatsii";
+
+
+
+
+}
+
+.wrapper.input-box {
+    position: relative;
+    width: 200px;
+    height: 48px;
+    margin: Right 20px;
+    color: #1a1a1a;
+    font-size: 100px;
+    margin-top: 20px;
+
+
+
+
+
+
+}
+
+.input-box input {
+    width: 360px;
+    height: 48px;
+    background: transparent;
+    outline: none;
+    border: none;
+    color: #ffffff;
+    border: 2px solid rgba(71, 68, 68, 0.2);
+    border-radius: 5px;
+    font-size: 16;
+    color: black;
+    align-items: 16px;
+    background-color: #f2f2f2;
+    margin:0;
+    margin-top:10px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-left:10px;;
+    display:grid;
+   
+       
+
+
+
+}
+
+.input-box input::placeholder {
+
+    color: #808080;
+    ;
+    padding: 40px 45px 20px 20px;
+    font-size: 15px;
+    margin-top:10px;
+    margin-right: 12px;
+    margin-bottom: 20px;
+    margin-left:10px;;
+    display:grid;
+
+
+}
+.sign{
+
+   font-size: 12px;
+    background-color: #007aff;
+    color: white;
+    border: white;
+    font-size: 15px;
+    font-weight: 100px;
+    border-radius: 6px;
+    padding-top: 2;
+    margin: top 2px;
+    margin-right:1ch px;
+    margin-bottom: 20px;
+   margin-left: 12px;
+   display:grid;
+   padding-top: 10px;
+   padding-left: 400px;
+   padding-right: 155.5px;
+   padding-bottom: 9px;
+   width:360px;
+       padding: 8px;
+       border-radius: 5px;
+       border: 1px solid #ccc;
+        
+
+
+
+
+}
+
+
+.wrapper register-link{
+    border-radius: 6px;
+    text-align: center;
+    margin: 20px 0 15px;
+    font-size: 12px;
+    text-decoration: none;
+  
+
+}
+
+.register-link{
+    margin-left: 10px;
+    text-decoration: none;
+
+    
+    
+
+  
+
+
+
+}
+
